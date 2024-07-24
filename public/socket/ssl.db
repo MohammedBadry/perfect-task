@@ -1,0 +1,99 @@
+--- 
+files: 
+  certificate: 
+    3zapp_com_c037c_5296d_1658879999_fb05260c88551e3fd5ed12b3475d1c86: 
+      created: '1651031222'
+      domains: 
+        - 3zapp.com
+        - cpanel.3zapp.com
+        - cpcalendars.3zapp.com
+        - cpcontacts.3zapp.com
+        - mail.3zapp.com
+        - webdisk.3zapp.com
+        - webmail.3zapp.com
+        - www.3zapp.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “3zapp.com” 1651031222.0
+      id: 3zapp_com_c037c_5296d_1658879999_fb05260c88551e3fd5ed12b3475d1c86
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: c037c2033e73e2d313dd42eea5bc6dd204f2331666ecd252fe49db6c0407d166cb0822ef4a472d5af731d96d169dbe06c2cab97a859d6a2dd64b513ddbb1e958030cb7148d5a4dc8216fe98165cfb03ea0fcb8f0a1f5ec6cbd65d53e6937862a0eed14eabafc987f8b8607af166fe6c28a4b32753a46adfc76d85c2c1199ed8f526cfdfd6aaac9998535b7a61521ec1058f2a3fb0ffc807c0651af9b2fe6eb321e8edfeb8dc2d18ed70391682b46c9b22c287fd3cfa8834461de62b81c555faf5a482314dde356c32b0abd614e483bac37a429fc293e560383bcbd8be1cc1f0908072c077d6d02af931424f2ade5ce0a0c90433a97f914f05c489c54f995296d
+      modulus_length: 2048
+      not_after: '1658879999'
+      not_before: '1651017600'
+      serial: 8e19a19fff89b32e86a2b47770b01dcf
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: 3zapp.com
+      validation_type: dv
+    3zapp_com_e8306_81b15_1682540660_5fcca2ea8806923d08b516f33efa7643: 
+      created: '1651004660'
+      domains: 
+        - 3zapp.com
+        - mail.3zapp.com
+        - www.3zapp.com
+        - cpanel.3zapp.com
+        - webmail.3zapp.com
+        - webdisk.3zapp.com
+        - cpcontacts.3zapp.com
+        - cpcalendars.3zapp.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “3zapp.com”
+      id: 3zapp_com_e8306_81b15_1682540660_5fcca2ea8806923d08b516f33efa7643
+      is_self_signed: 1
+      issuer.commonName: 3zapp.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: e8306a98526af1f7e5a6a3fd596a73b726a3afefca8fadb092e8ba44b614a8e420900a4ab4014a256fa9d954488a263a64624eac43ec2415d3d9b5beabc620aa30693f611fc47d8c10e041d5c895c446b2ef0901ac6c8035339aa4b84b22f916dea91c293278e3cbf53dea2d719467ec2fbcdb96adaf880f11cf2c15f4088631c0ff8e41d9c6a1d632734e0dea3e1ac0bfb88d0bf9c2e808b348a6961b96e765ff081966b12f160d43f13931c8f21a98895644d7ff4d7529f3fb8d8bb9c3bbcd22d92b01831fb133fe4660930a7e69b0f585df9bc76c006df1e49eba036848be4f40fc30ed1fad9074822297ad54bfbb5b14226416b87093441614ecfb381b15
+      modulus_length: 2048
+      not_after: '1682540660'
+      not_before: '1651004660'
+      serial: 01019739b8
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: 3zapp.com
+      validation_type: ~
+  key: 
+    c037c_5296d_0001bb33529fe42ee648399ac5a7d8fb: 
+      created: '1651031222'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “3zapp.com” 1651031222.0
+      id: c037c_5296d_0001bb33529fe42ee648399ac5a7d8fb
+      key_algorithm: rsaEncryption
+      modulus: c037c2033e73e2d313dd42eea5bc6dd204f2331666ecd252fe49db6c0407d166cb0822ef4a472d5af731d96d169dbe06c2cab97a859d6a2dd64b513ddbb1e958030cb7148d5a4dc8216fe98165cfb03ea0fcb8f0a1f5ec6cbd65d53e6937862a0eed14eabafc987f8b8607af166fe6c28a4b32753a46adfc76d85c2c1199ed8f526cfdfd6aaac9998535b7a61521ec1058f2a3fb0ffc807c0651af9b2fe6eb321e8edfeb8dc2d18ed70391682b46c9b22c287fd3cfa8834461de62b81c555faf5a482314dde356c32b0abd614e483bac37a429fc293e560383bcbd8be1cc1f0908072c077d6d02af931424f2ade5ce0a0c90433a97f914f05c489c54f995296d
+      modulus_length: 2048
+    e8306_81b15_c568899a25198eb2a6e1c7c788c1e2e7: 
+      created: '1651004660'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “3zapp.com”
+      id: e8306_81b15_c568899a25198eb2a6e1c7c788c1e2e7
+      key_algorithm: rsaEncryption
+      modulus: e8306a98526af1f7e5a6a3fd596a73b726a3afefca8fadb092e8ba44b614a8e420900a4ab4014a256fa9d954488a263a64624eac43ec2415d3d9b5beabc620aa30693f611fc47d8c10e041d5c895c446b2ef0901ac6c8035339aa4b84b22f916dea91c293278e3cbf53dea2d719467ec2fbcdb96adaf880f11cf2c15f4088631c0ff8e41d9c6a1d632734e0dea3e1ac0bfb88d0bf9c2e808b348a6961b96e765ff081966b12f160d43f13931c8f21a98895644d7ff4d7529f3fb8d8bb9c3bbcd22d92b01831fb133fe4660930a7e69b0f585df9bc76c006df1e49eba036848be4f40fc30ed1fad9074822297ad54bfbb5b14226416b87093441614ecfb381b15
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c037c2033e73e2d313dd42eea5bc6dd204f2331666ecd252fe49db6c0407d166cb0822ef4a472d5af731d96d169dbe06c2cab97a859d6a2dd64b513ddbb1e958030cb7148d5a4dc8216fe98165cfb03ea0fcb8f0a1f5ec6cbd65d53e6937862a0eed14eabafc987f8b8607af166fe6c28a4b32753a46adfc76d85c2c1199ed8f526cfdfd6aaac9998535b7a61521ec1058f2a3fb0ffc807c0651af9b2fe6eb321e8edfeb8dc2d18ed70391682b46c9b22c287fd3cfa8834461de62b81c555faf5a482314dde356c32b0abd614e483bac37a429fc293e560383bcbd8be1cc1f0908072c077d6d02af931424f2ade5ce0a0c90433a97f914f05c489c54f995296d: 
+        3zapp_com_c037c_5296d_1658879999_fb05260c88551e3fd5ed12b3475d1c86: ~
+      e8306a98526af1f7e5a6a3fd596a73b726a3afefca8fadb092e8ba44b614a8e420900a4ab4014a256fa9d954488a263a64624eac43ec2415d3d9b5beabc620aa30693f611fc47d8c10e041d5c895c446b2ef0901ac6c8035339aa4b84b22f916dea91c293278e3cbf53dea2d719467ec2fbcdb96adaf880f11cf2c15f4088631c0ff8e41d9c6a1d632734e0dea3e1ac0bfb88d0bf9c2e808b348a6961b96e765ff081966b12f160d43f13931c8f21a98895644d7ff4d7529f3fb8d8bb9c3bbcd22d92b01831fb133fe4660930a7e69b0f585df9bc76c006df1e49eba036848be4f40fc30ed1fad9074822297ad54bfbb5b14226416b87093441614ecfb381b15: 
+        3zapp_com_e8306_81b15_1682540660_5fcca2ea8806923d08b516f33efa7643: ~
+    subject.commonName: 
+      3zapp.com: 
+        3zapp_com_c037c_5296d_1658879999_fb05260c88551e3fd5ed12b3475d1c86: ~
+        3zapp_com_e8306_81b15_1682540660_5fcca2ea8806923d08b516f33efa7643: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “3zapp.com”: 3zapp_com_e8306_81b15_1682540660_5fcca2ea8806923d08b516f33efa7643
+      Cert for “3zapp.com” 1651031222.0: 3zapp_com_c037c_5296d_1658879999_fb05260c88551e3fd5ed12b3475d1c86
+  key: 
+    friendly_name: 
+      Key for “3zapp.com”: e8306_81b15_c568899a25198eb2a6e1c7c788c1e2e7
+      Key for “3zapp.com” 1651031222.0: c037c_5296d_0001bb33529fe42ee648399ac5a7d8fb
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      c037c2033e73e2d313dd42eea5bc6dd204f2331666ecd252fe49db6c0407d166cb0822ef4a472d5af731d96d169dbe06c2cab97a859d6a2dd64b513ddbb1e958030cb7148d5a4dc8216fe98165cfb03ea0fcb8f0a1f5ec6cbd65d53e6937862a0eed14eabafc987f8b8607af166fe6c28a4b32753a46adfc76d85c2c1199ed8f526cfdfd6aaac9998535b7a61521ec1058f2a3fb0ffc807c0651af9b2fe6eb321e8edfeb8dc2d18ed70391682b46c9b22c287fd3cfa8834461de62b81c555faf5a482314dde356c32b0abd614e483bac37a429fc293e560383bcbd8be1cc1f0908072c077d6d02af931424f2ade5ce0a0c90433a97f914f05c489c54f995296d: c037c_5296d_0001bb33529fe42ee648399ac5a7d8fb
+      e8306a98526af1f7e5a6a3fd596a73b726a3afefca8fadb092e8ba44b614a8e420900a4ab4014a256fa9d954488a263a64624eac43ec2415d3d9b5beabc620aa30693f611fc47d8c10e041d5c895c446b2ef0901ac6c8035339aa4b84b22f916dea91c293278e3cbf53dea2d719467ec2fbcdb96adaf880f11cf2c15f4088631c0ff8e41d9c6a1d632734e0dea3e1ac0bfb88d0bf9c2e808b348a6961b96e765ff081966b12f160d43f13931c8f21a98895644d7ff4d7529f3fb8d8bb9c3bbcd22d92b01831fb133fe4660930a7e69b0f585df9bc76c006df1e49eba036848be4f40fc30ed1fad9074822297ad54bfbb5b14226416b87093441614ecfb381b15: e8306_81b15_c568899a25198eb2a6e1c7c788c1e2e7
